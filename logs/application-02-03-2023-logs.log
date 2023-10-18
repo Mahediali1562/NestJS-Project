@@ -1,0 +1,16 @@
+02-03-2023 17:24:42 info: This is sample info log. - {"json":true}
+02-03-2023 17:24:42 error: This is sample error log. - {}
+02-03-2023 17:24:46 info: This is sample info log. - {"json":true}
+02-03-2023 17:24:46 error: This is sample error log. - {}
+02-03-2023 17:24:47 info: This is sample info log. - {"json":true}
+02-03-2023 17:24:47 error: This is sample error log. - {}
+02-03-2023 17:27:14 info: This is sample info log. - {"json":true}
+02-03-2023 17:27:14 error: This is sample error log. - {}
+02-03-2023 17:28:12 info: This is sample info log. - {"json":true}
+02-03-2023 17:28:12 error: This is sample error log. - {}
+02-03-2023 17:39:40 info: New role created: ADMIN - {}
+02-03-2023 17:41:37 debug: login userFromDb [object Object] - {}
+02-03-2023 17:42:36 debug: inside getUserById - {}
+02-03-2023 17:43:00 debug: requestMeta object  - {"userId":1,"actor":"Mahediali","email":"mahediali@gmail.com","sessionId":"bd2a4b19-0a49-4f14-9df7-da3f15cd7aae","requestId":"f7e8eec1-09b6-49a8-a0c3-4ed0ff0ec70d","originalUrl":"/api/v1/users?page=1&limit=1","method":"GET","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36","host":"localhost:3000","clientIp":"::1","startTime":1677759180202}
+02-03-2023 17:43:18 info: This is sample info log. - {"json":true}
+02-03-2023 17:43:18 error: This is sample error log. - {}

@@ -1,0 +1,2 @@
+12-03-2023 10:38:31 debug: login userFromDb [object Object] - {}
+12-03-2023 10:59:52 error: EntityPropertyNotFoundError: Property "todoStatus" was not found in "Todo". Make sure your query is correct. - {"userId":1,"actor":"Mahediali","email":"mahediali@gmail.com","sessionId":"a2fe4c6c-e7e6-42ce-af29-8f01d54d5ff3","requestId":"598fd954-03d1-49c0-9aca-132b8fce4d7d","originalUrl":"/api/v1/todo/change-status","method":"POST","userAgent":"PostmanRuntime/7.31.1","host":"localhost:3000","clientIp":"::1","startTime":1678598992678}

@@ -1,0 +1,5 @@
+06-03-2023 10:55:41 info: This is sample info log. - {"json":true}
+06-03-2023 10:55:41 error: This is sample error log. - {}
+06-03-2023 11:01:39 info: New role created: string - {}
+06-03-2023 11:04:57 debug: Record already present! - {}
+06-03-2023 11:05:10 info: New role created: Mahedi - {}
